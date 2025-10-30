@@ -1,0 +1,2 @@
+# GitCloneExample
+sample repository
